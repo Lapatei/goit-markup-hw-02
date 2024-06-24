@@ -26,10 +26,11 @@ ul {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
+  color: #4d5ae5;
 }
 
 .span-logo {
-  color: #4d5ae5;
+  color: #2e2f42;
 }
 
 .contacts {
